@@ -6,3 +6,6 @@ class Hello{
   }
 }
 ```
+- [x] ICC Cricketer of the Decade
+- [x] Most ODI centuries
+- [x] Legend already
